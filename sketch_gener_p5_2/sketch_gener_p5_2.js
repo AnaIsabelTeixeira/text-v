@@ -28,7 +28,8 @@ function setup() {
 }
 
 function draw() {
-  background(235);
+   clear();
+  //background(235);
   //fill(235);
   //text('Verges', 10, 130);
   //colorMode(HSB, 100);
